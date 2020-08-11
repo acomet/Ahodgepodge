@@ -10,3 +10,4 @@ let {
 // console.log(song);
 // console.log(whoIsTheBestPlayer);
 // takeTheBallTakeTheLash();
+// console.log(formatAmount(15000000));
