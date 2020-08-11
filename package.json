@@ -1,0 +1,25 @@
+{
+  "name": "ahodgepodge",
+  "version": "1.0.0",
+  "description": "ooops, just test",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acomet/Ahodgepodge.git"
+  },
+  "keywords": [
+    "hodgepodge"
+  ],
+  "author": "relmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acomet/Ahodgepodge/issues"
+  },
+  "homepage": "https://github.com/acomet/Ahodgepodge#readme",
+  "dependencies": {
+    "numeral": "^2.0.6"
+  }
+}
