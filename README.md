@@ -2,10 +2,10 @@
 ooops, just test
  
 # install
-npm install ahodgepodgeahodgepodge
+npm install ahodgepodge
  
 # github
 https://github.com/acomet/Ahodgepodge.git
  
 # usage
-
+暂无
